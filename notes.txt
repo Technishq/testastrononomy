@@ -1,0 +1,52 @@
+Tech stack 
+****mern.......   front end - react , backend - node , database - mongodb   ---... 4 languages ..   ****
+
+//wordpress........   hosting , install wpordpress, make ur own theme/ buy ( php)
+
+html css bootstrap ..... (3) 
+
+figma ---//
+
+
+pages 
+Home 
+ * Navbar -- sticky , fixed, relative
+ * hero slider , a fixed bg , or a scrolling bg 
+ * sidebar 
+ * footer 
+
+
+About 
+ **paragraphs get a good writting from SM&C
+
+C8ontact us 
+ * Form7 - mail 
+
+
+
+Projects / activities / club activities or whaterver  sounds good
+*slider
+*description
+https://i.ytimg.com/vi/dLi2O0WAKC4/sddefault.jpg
+
+
+Teams
+Current board 
+MCs - SOMETHING INNOVATIVE WITH NAMES
+
+
+Blog/community ... (aluminis guest post)
+**CLUB SM WILL BE HANDLING CONTENT
+** GUEST POST - - - - EITHER U MAKE IT MAIL BASED OR A WHOLE BACKEDN FOR THE USER REGISTRATION (KEEP SPAM IN MIND)
+
+
+GALLERY (ASTROPHOTOS/ CLUB EVENT PHOTOS)
+ *creative and cute / appealing
+
+**************
+
+slider / sidebar (upcoming events )
+ex
+https://bloggingwizard.com/wp-content/uploads/2020/05/Event-Organiser-.png
+
+**************
